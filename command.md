@@ -15,3 +15,5 @@
 - git branch -d xxx
 - git merge xxx
 -  git merge --no-ff
+-  git remote add origin git@github.com:michaelliao/learngit.git
+-  git push origin master
