@@ -6,6 +6,7 @@
 - git status
 - git diff
 - git commit
+  - * git commit -m "xxxxx"
 - git reset
     * git reset --hard HEAD^
 - git rm
